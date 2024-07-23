@@ -1,0 +1,10 @@
+﻿  Hasard.cpp
+  Main.cpp
+C:\Users\Fanomezana\Documents\UQAC\Structure de donne\code\travail_6_Rakotondrabe Miora Fanomezana\travail_6\Lemmings\Main.cpp(109,42): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Fanomezana\Documents\UQAC\Structure de donne\code\travail_6_Rakotondrabe Miora Fanomezana\travail_6\Lemmings\Main.cpp(150,34): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Fanomezana\Documents\UQAC\Structure de donne\code\travail_6_Rakotondrabe Miora Fanomezana\travail_6\Lemmings\Main.cpp(163,28): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Fanomezana\Documents\UQAC\Structure de donne\code\travail_6_Rakotondrabe Miora Fanomezana\travail_6\Lemmings\Main.cpp(176,28): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Fanomezana\Documents\UQAC\Structure de donne\code\travail_6_Rakotondrabe Miora Fanomezana\travail_6\Lemmings\Main.cpp(198,70): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Fanomezana\Documents\UQAC\Structure de donne\code\travail_6_Rakotondrabe Miora Fanomezana\travail_6\Lemmings\Main.cpp(244,35): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Génération de code en cours...
+  Lemmings.vcxproj -> C:\Users\Fanomezana\Documents\UQAC\Structure de donne\code\travail_6_Rakotondrabe Miora Fanomezana\travail_6\x64\Debug\Lemmings.exe
